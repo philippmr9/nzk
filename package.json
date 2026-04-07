@@ -1,0 +1,1 @@
+{\n  "name": "nzk",\n  "version": "1.0.0",\n  "dependencies": {\n    "crawlee": "^0.9.1",\n    "json2csv": "^5.0.6"\n  },\n  "scripts": {\n    "start": "node scraper.js"\n  }\n}
